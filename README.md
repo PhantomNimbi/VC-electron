@@ -23,6 +23,6 @@ A collection of desktop applications made with <a href="https://github.com/jiaha
 - <a href="https://newhorizon-development.netlify.app">NewHorizon Development</a>
 - <a href="https://discord.gg/9R5GBe2">Discord</a>
 
-
+### Social
 ![TWITTER](https://img.shields.io/twitter/follow/NHDev_Official?style=social)
 ![MASTODON](https://img.shields.io/mastodon/follow/150222?domain=https%3A%2F%2Fmstdn.social%2F&style=social)
