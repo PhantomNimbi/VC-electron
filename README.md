@@ -1,6 +1,6 @@
 ![NATIVEFIER](https://img.shields.io/badge/requirements-nativefier-informational.svg)
 ![PLATFORM](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-informational.svg)
-![LICENSE:MIT](https://img.shields.io/badge/license-MIT-informational.svg)
+![LICENSE](https://img.shields.io/badge/license-MIT-informational.svg)
 # Desktop Apps
 A collection of desktop applications made with <a href="https://github.com/jiahaog/nativefier">nativefier</a>
 
