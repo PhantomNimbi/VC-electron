@@ -10,7 +10,7 @@ A collection of desktop applications made with <a href="https://github.com/jiaha
 - <a href="https://github.com/newhorizon-development/Desktop-Apps/blob/master/LICENSE">License</a>
 
 ## INSTRUCTIONS
-- To build a desktop app for use with this repo, first you need to install - <a href="https://github.com/jiahaog/nativefier">nativefier</a>
+- To build a desktop app for use with this repo, first you need to install <a href="https://github.com/jiahaog/nativefier">nativefier</a>
 - One installed simply follow the instructions provided on the official page for nativefier to create the application
 
 ### Support
