@@ -1,3 +1,6 @@
+![NATIVEFIER](https://img.shields.io/badge/nativefier-green.svg)
+![HTML](https://img.shields.io/badge/html-orange)
+![LICENSE:MIT](https://img.shields.io/badge/license-MIT-green)
 # Desktop Apps
 A collection of desktop applications made with <a href="https://github.com/jiahaog/nativefier">nativefier</a>
 
