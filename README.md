@@ -2,9 +2,9 @@
 A collection of desktop applications made with <a href="https://github.com/jiahaog/nativefier">nativefier</a>
 
 ## Table of Contents
-- FAQ
-- CHANGELOG
-- CONTRIBUTING
+- <a href="https://github.com/newhorizon-development/Desktop-Apps/blob/master/FAQ">FAQ</a>
+- <a href="https://github.com/newhorizon-development/Desktop-Apps/blob/master/CHANGELOG">CHANGELOG</a>
+- <a href="https://github.com/newhorizon-development/Desktop-Apps/blob/master/CONTRIBUTING">CONTRIBUTING</a>
 - <a href="https://github.com/newhorizon-development/Desktop-Apps/blob/master/LICENSE">License</a>
 
 ### Support
