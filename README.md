@@ -1,6 +1,6 @@
-![NATIVEFIER](https://img.shields.io/badge/requirements-nativefier-informational)
+[![NATIVEFIER](https://img.shields.io/badge/requirements-nativefier-informational)](https://github.com/jiahaog/nativefier)
 ![PLATFORM](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-informational)
-![LICENSE](https://img.shields.io/badge/license-MIT-informational)
+[![LICENSE](https://img.shields.io/badge/license-MIT-informational)](https://github.com/newhorizon-development/Desktop-Apps/blob/master/LICENSE)
 
 # Desktop Apps
 A collection of desktop applications made with <a href="https://github.com/jiahaog/nativefier">nativefier</a>
