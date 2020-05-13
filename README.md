@@ -1,6 +1,7 @@
 ![NATIVEFIER](https://img.shields.io/badge/requirements-nativefier-informational)
 ![PLATFORM](https://img.shields.io/badge/platform-linux--64%20%7C%20win--32%20%7C%20osx--64%20%7C%20win--64-informational)
 ![LICENSE](https://img.shields.io/badge/license-MIT-informational)
+
 ![TWITTER](https://img.shields.io/twitter/follow/NHDev_Official?style=social)
 ![MASTODON](https://img.shields.io/mastodon/follow/150222?domain=https%3A%2F%2Fmstdn.social%2F&style=social)
 
