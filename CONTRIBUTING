@@ -1,0 +1,9 @@
+All contributors must be approved by our deelopment team.
+
+Contributors must be sure to place their apps in the correct folder for the OS of which it is built for.
+
+All apps must be built with nativefier. Apps built with other methods WILL NOT be accepted.
+
+When adding a new app, be sure to add a section to the CHANGELOG. The CHANGELOG will be used for the official CHANGELOG of every app in this repo.
+
+When updating existing apps in the repo, DO NOT add a new section to the CHANGELOG. Simply update the existing section.
