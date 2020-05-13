@@ -1,4 +1,4 @@
- 
+# Desktop Apps
 A collection of desktop applications made with <a href="https://github.com/jiahaog/nativefier">nativefier</a>
 
 ![NATIVEFIER](https://github.com/jiahaog/nativefier/raw/master/docs/walkthrough.gif)
