@@ -7,7 +7,7 @@ A collection of desktop applications made with <a href="https://github.com/jiaha
 
 ![NATIVEFIER](https://github.com/jiahaog/nativefier/raw/master/docs/walkthrough.gif)
 
-<img align="right" src="https://newgitlab.elaztek.com/NewHorizon-Development/resources/images/-/raw/master/Branding/SFW/NewHorizon%20Development/Logo%20200x200.png" alt="NewHorizon Development">
+<img align="right" src="https://raw.githubusercontent.com/newhorizon-development/Images/master/Branding/SFW/NewHorizon%20Development/Logo%20500x500.png?token=AEGMRSQI7AOMWIATFPDLHZS6YVXY6" alt="NewHorizon Development">
 
 ## Table of Contents
 - <a href="https://github.com/newhorizon-development/Desktop-Apps/blob/master/FAQ">Faq</a>
