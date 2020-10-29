@@ -2,6 +2,9 @@
 Desktop App for [Virtual Customs](https://vurtalcustoms.net) built with [Nativefier](https://github.com/jiahaog/nativefier).
 
 
+![](https://raw.githubusercontent.com/newhorizon-development/Virtual-Customs-Desktop-App/master/Linux/resources/app/icon.png)
+
+
 
 ## Supported O.S.
 
@@ -12,14 +15,16 @@ Desktop App for [Virtual Customs](https://vurtalcustoms.net) built with [Nativef
 
 ## Windows Installation
 
- - Download and run the `VirtualCustoms-Windows_Setup.exe` file from the releases page.
+ - Download and run the `VirtualCustoms-Windows_Setup.exe` file from the [Releases](https://github.com/newhorizon-development/Virtual-Customs-Desktop-App/releases/tag/v1.0.0).
+
 
 
 
 
 ## Linux Installation
 
- - Download the `VirtualCustoms-linux.tar.gz` file from the releases page.
+ - Download the `VirtualCustoms-linux.tar.gz` file from the [Releases](https://github.com/newhorizon-development/Virtual-Customs-Desktop-App/releases/tag/v1.0.0).
+
  - Extract it to a desired location of your choosing.
  - Open and terminal in the newly extracted folder and run the app by typing `./VirtualCustoms` into the terminal.
 
