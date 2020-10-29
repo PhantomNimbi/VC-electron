@@ -12,15 +12,14 @@ Desktop App for [Virtual Customs](https://vurtalcustoms.net) built with [Nativef
 
 ## Windows Installation
 
- - Download the Virtual-Customs-Windows-x64-86.zip file from the releases page.
- - Extract it to a desired location of your choice.
- - Create a shortcut on your desktop to the `VirtualCustoms.exe` file located in the newly extracted folder.
+ - Download and run the `VirtualCustoms-Windows_Setup.exe` file from the releases page.
+
 
 
 
 ## Linux Installation
 
- - Download the VirtualCustoms-linux-x64.tar.gz file from the releases page.
+ - Download the `VirtualCustoms-linux.tar.gz` file from the releases page.
  - Extract it to a desired location of your choosing.
  - Open and terminal in the newly extracted folder and run the app by typing `./VirtualCustoms` into the terminal.
 
