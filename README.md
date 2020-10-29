@@ -24,3 +24,7 @@ Desktop App for [Virtual Customs](https://vurtalcustoms.net) built with [Nativef
  - Open and terminal in the newly extracted folder and run the app by typing `./VirtualCustoms` into the terminal.
 
 
+### Support
+ - [New Horizon Development](https://newhorizon-development.github.io/website/)
+
+
